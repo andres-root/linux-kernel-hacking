@@ -1,0 +1,1 @@
+cmd_/home/andresroot/sites/linux/linux-kernel-hacking/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/andresroot/sites/linux/linux-kernel-hacking/hello.ko /home/andresroot/sites/linux/linux-kernel-hacking/hello.o /home/andresroot/sites/linux/linux-kernel-hacking/hello.mod.o
