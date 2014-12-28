@@ -16,3 +16,6 @@ static void __exit hello_cleanup(void)
 {
 	printk(KERN_INFO "Cleaning up module.\n");
 }
+
+module_init(hello_init);
+module_exit(hello_cleanup);
