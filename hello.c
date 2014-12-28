@@ -2,7 +2,7 @@
 #include <linux/kernel.h>
 #include <linux/init.h>
 
-MODULE_LICENCE("GPL");
+MODULE_LICENSE("GPL");
 MODULE_AUTHOR("andresroot");
 MODULE_DESCRIPTION("A hello world module");
 
