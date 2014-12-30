@@ -1,4 +1,4 @@
-linux-kernel-hacking
+Linux Kernel Hacking
 ====================
 
-linux-kernel-hacking
+Hacking the Linux Kenel, Ading some modules and features
